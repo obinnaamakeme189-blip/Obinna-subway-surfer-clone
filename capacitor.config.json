@@ -1,0 +1,9 @@
+{
+  "appId": "com.obinna.railrunner",
+  "appName": "Neon Rail Runner",
+  "webDir": "www",
+  "backgroundColor": "#0a0618",
+  "android": {
+    "backgroundColor": "#0a0618"
+  }
+}
